@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    answer.txt                                         :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jchotel <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/03/10 12:52:40 by jchotel           #+#    #+#              #
+#    Updated: 2020/03/10 13:08:17 by jchotel          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+1. OUTPUT A LIST OF INSTALLED PACKAGES : pip list
+2. OUTPUT A LIST OF INSTALLED PACKAGES && VERSIONS : pip list
+3. SHOW THE PACKAGE METADATA OF NUMPY : pip show numpy
+4. SEARCH FOR PyPI PACKAGES WHOSE NAME OR SUMMARY CONTAINS "tesseract" : pip search tesseract
+5. FREEZE THE PACKAGES AND CURRENT VERSIONS IN requirements.txt : pip freeze > requirements.txt
